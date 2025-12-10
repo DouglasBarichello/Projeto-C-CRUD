@@ -1,0 +1,14 @@
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\obj\Debug\net8.0\ProjetoPessoal(POO).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\obj\Debug\net8.0\ProjetoPessoal(POO).AssemblyInfoInputs.cache
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\obj\Debug\net8.0\ProjetoPessoal(POO).AssemblyInfo.cs
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\obj\Debug\net8.0\ProjetoPessoal(POO).csproj.CoreCompileInputs.cache
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\bin\Debug\net8.0\ProjetoPessoal(POO).exe
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\bin\Debug\net8.0\ProjetoPessoal(POO).deps.json
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\bin\Debug\net8.0\ProjetoPessoal(POO).runtimeconfig.json
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\bin\Debug\net8.0\ProjetoPessoal(POO).dll
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\bin\Debug\net8.0\ProjetoPessoal(POO).pdb
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\obj\Debug\net8.0\ProjetoPessoal(POO).dll
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\obj\Debug\net8.0\refint\ProjetoPessoal(POO).dll
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\obj\Debug\net8.0\ProjetoPessoal(POO).pdb
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\obj\Debug\net8.0\ProjetoPessoal(POO).genruntimeconfig.cache
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\obj\Debug\net8.0\ref\ProjetoPessoal(POO).dll

@@ -1,0 +1,14 @@
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\bin\Debug\net8.0\Crud Terminal.exe
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\bin\Debug\net8.0\Crud Terminal.deps.json
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\bin\Debug\net8.0\Crud Terminal.runtimeconfig.json
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\bin\Debug\net8.0\Crud Terminal.dll
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\bin\Debug\net8.0\Crud Terminal.pdb
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\obj\Debug\net8.0\Crud Terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\obj\Debug\net8.0\Crud Terminal.AssemblyInfoInputs.cache
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\obj\Debug\net8.0\Crud Terminal.AssemblyInfo.cs
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\obj\Debug\net8.0\Crud Terminal.csproj.CoreCompileInputs.cache
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\obj\Debug\net8.0\Crud Terminal.dll
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\obj\Debug\net8.0\refint\Crud Terminal.dll
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\obj\Debug\net8.0\Crud Terminal.pdb
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\obj\Debug\net8.0\Crud Terminal.genruntimeconfig.cache
+C:\Users\douglas.barichello\source\repos\ProjetoPessoal(POO)\ProjetoPessoal(POO)\obj\Debug\net8.0\ref\Crud Terminal.dll
