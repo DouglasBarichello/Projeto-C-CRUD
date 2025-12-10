@@ -12,9 +12,7 @@ public class GerenciadorUsuario
     {
         Console.WriteLine("-------------------------------------------------------------");
         Console.WriteLine("--------------------CRIAR USUARIO----------------------------");
-        Console.WriteLine("-------------------------------------------------------------");
-
-
+        
         //Nome
         Console.WriteLine("-------------------------------------------------------------");
         Console.WriteLine("Nome:");
@@ -239,3 +237,4 @@ public class GerenciadorUsuario
 
     }
 }
+
